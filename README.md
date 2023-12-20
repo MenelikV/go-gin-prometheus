@@ -5,7 +5,7 @@ Gin Web Framework Prometheus metrics exporter
 
 ## Installation
 
-`$ go get github.com/mvero/go-gin-prometheus`
+`$ go get github.com/menelikv/go-gin-prometheus`
 
 ## Usage
 
@@ -14,7 +14,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/mvero/go-gin-prometheus"
+	"github.com/menelikv/go-gin-prometheus"
 )
 
 func main() {
